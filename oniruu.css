@@ -1,0 +1,23 @@
+.eventtss{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 90px;
+  font-family: sans-serif;
+  /* font-size: 2px; */
+  color: black;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  /* padding: 400px; */
+}
+.holdereventts{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 0px;
+  /* margin: 400px; */
+  /* position: relative; */
+  width: fit-content;
+  margin-right: 200px;
+}
